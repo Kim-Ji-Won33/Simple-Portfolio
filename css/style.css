@@ -45,6 +45,9 @@ html, body{
     text-align: center;
     font-family: "Malgun Gothic", sans-serif;
 }
+.main_s{
+    z-index: 10;
+}
 .contents__name{
     font-size: 64px;
     font-weight: bold;
