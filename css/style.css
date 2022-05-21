@@ -138,3 +138,10 @@ h2{
         border-bottom:none;
       }
 }
+contents2{
+        position: absolute;
+        top:0%;
+        left:0%;
+        z-index: 20;
+        font-family: "Malgun Gothic", sans-serif;
+}
