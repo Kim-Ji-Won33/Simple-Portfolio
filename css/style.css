@@ -139,9 +139,6 @@ h2{
       }
 }
 contents2{
-        position: absolute;
-        top:0%;
-        left:0%;
-        z-index: 20;
+        border-left-width: 25px;
         font-family: "Malgun Gothic", sans-serif;
 }
